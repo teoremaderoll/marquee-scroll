@@ -4,6 +4,10 @@
   "description": "Smooth marquee scroll animation for React with customizable masks and triggers",
   "author": "Silvano Franco Tommasi <teoremaderoll@github.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/teoremaderoll/marquee-scroll.git"
+  },
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
